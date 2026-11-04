@@ -1,0 +1,22 @@
+
+# C/C++编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.elf
+*.bin
+*.hex
+
+# Windows及编辑器临时文件
+Thumbs.db
+.DS_Store
+*.log
+*.tmp
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 本次WSL编译生成的无扩展名程序
+/code/day01/reverse_buffer
