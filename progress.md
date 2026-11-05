@@ -1,0 +1,1 @@
+| 02 | Codex多文件修改、Diff审查、HAL Mock | struct对齐、位运算、FAULT与ACK | STOP方案A、FAULT保护、活动seq保护 | Keil通过；协议及HAL Mock测试通过；ACK分发未独立测试；实机暂停 | 进行中（待归档） |
