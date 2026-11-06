@@ -20,3 +20,4 @@ __pycache__/
 
 # 本次WSL编译生成的无扩展名程序
 /code/day01/reverse_buffer
+x
